@@ -14,3 +14,7 @@ Introduction to computer graphics (N/A)
 [2D transformation] (https://github.com/fomapavlov/254481_1_2016/blob/master/Transformation.pptx)
 
 ...
+
+Online resources
+
+[GLUT] (https://mycodelog.com/2010/05/15/gllibs/)
