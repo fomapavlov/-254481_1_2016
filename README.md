@@ -9,6 +9,8 @@ Introduction to computer graphics (N/A)
 
 [OpenGL] (https://github.com/fomapavlov/254481_1_2016/blob/master/OpenGL.pdf)
 
+[2D Viewing] (https://github.com/fomapavlov/254481_1_2016/blob/master/2DViewing.pdf)
+
 [Geometry and linear algebra] (https://github.com/fomapavlov/254481_1_2016/blob/master/Geometry.pdf)
 
 [2D transformation] (https://github.com/fomapavlov/254481_1_2016/blob/master/Transformation.pdf)
