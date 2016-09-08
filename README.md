@@ -20,3 +20,7 @@ Introduction to computer graphics (N/A)
 Online resources
 
 [GLUT] (https://mycodelog.com/2010/05/15/gllibs/)
+
+[Basic GLUT] (https://www.youtube.com/watch?v=SAmD_Aq1Un4)
+
+[An Introduction on OpenGL with 2D Graphics] https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html
