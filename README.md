@@ -24,3 +24,5 @@ Online resources
 [Basic GLUT] (https://www.youtube.com/watch?v=SAmD_Aq1Un4)
 
 [An Introduction on OpenGL with 2D Graphics] (https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
+
+[OpenGL Video Tutorial] (http://www.videotutorialsrock.com/)
