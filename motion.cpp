@@ -5,10 +5,6 @@ GLsizei winWidth = 640, winHeight = 640;
 GLint posY = 300;
 GLint posX = 300;
 
-int dx = 0;
-int dy = 0;
-float da = 0;
-
 void init(void)
 {
 	glClearColor(0.5, 0.5, 0.5, 0.0);
@@ -22,9 +18,6 @@ void init(void)
 void displayFcn(void)
 {
 	glClear(GL_COLOR_BUFFER_BIT);
-
-	glTranslatef(10,0,0);
-	glRotatef(0,0,0,1);
 
 	glBegin(GL_TRIANGLES);
 	glColor3f(1, 1, 1);
@@ -43,27 +36,27 @@ void myKeyboard(unsigned char key, int x, int y)
 
 	if(key == 'a' || key == 'A')
 	{
-
+		glTranslatef();
 	}
 	if(key == 'd' || key == 'D')
 	{
-
+		glTranslatef();
 	}
 	if(key == 's' || key == 'S')
 	{
-
+		glTranslatef();
 	}
 	if(key == 'w' || key == 'W')
 	{
-
+		glTranslatef();
 	}
 	if(key == ',')
 	{
-
+		glRotatef();
 	}
 	if(key == '.')
 	{
-
+		glRotatef();
 	}
 
 	glutPostRedisplay();
