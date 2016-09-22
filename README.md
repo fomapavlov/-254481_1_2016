@@ -15,6 +15,8 @@ Introduction to computer graphics (N/A)
 
 [2D transformation] (https://github.com/fomapavlov/254481_1_2016/blob/master/Transformation.pdf)
 
+[3D transformation] (https://github.com/fomapavlov/254481_1_2016/blob/master/3DTransformation.pdf)
+
 ...
 
 Online resources
