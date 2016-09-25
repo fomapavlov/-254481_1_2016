@@ -28,3 +28,9 @@ Online resources
 [An Introduction on OpenGL with 2D Graphics] (https://www3.ntu.edu.sg/home/ehchua/programming/opengl/CG_Introduction.html)
 
 [OpenGL Video Tutorial] (http://www.videotutorialsrock.com/)
+
+[3DS Max 2013 Tutorial] (https://www.youtube.com/watch?v=3Cp66tGZcbY&index=1&list=PLA6aIlfzrG_zAZs3FVYfUMGXOP-MkgPeQ)
+
+[3DS Max 2010 Tutorial] (https://www.youtube.com/watch?v=KwRkkGzA98k&list=PLA12BF2F8CC489A50)
+
+[3DS Max Modeling Tutorial] (https://www.youtube.com/watch?v=KwRkkGzA98k&list=PLA12BF2F8CC489A50)
