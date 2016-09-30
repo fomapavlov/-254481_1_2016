@@ -33,13 +33,15 @@ class myDockWidget(QtGui.QDockWidget):
         parent.keyPressEvent(event)
 
     def mousePressEvent(self, event):
-        parent = self.parentWidget()
-        parent.mousePressEvent(event)
+        if event.button() == QtCore.Qt.RightButton :
+            parent = self.parentWidget()
+            parent.toggleFullscreen()
 
     def closeEvent(self, event):
         try :
             global wannastop
             wannastop = True
+            self.hide()
             sys.exit()
         except ValueError:
             print(ValueError)
@@ -54,9 +56,9 @@ class myListWidget(QtGui.QListWidget):
         parent = self.parentWidget()
         parent.keyPressEvent(event)
 
-    def mousePressEvent(self, event):
-        parent = self.parentWidget()
-        parent.mousePressEvent(event)
+    #def mousePressEvent(self, event):
+    #    parent = self.parentWidget()
+    #    parent.mousePressEvent(event)
 
 class Player(QtGui.QMainWindow):
     """A simple Media Player using VLC and Qt
@@ -139,9 +141,9 @@ class Player(QtGui.QMainWindow):
         if key == QtCore.Qt.Key_F:
             self.toggleFullscreen()
 
-    def mousePressEvent(self, event):
-        if event.button() == QtCore.Qt.RightButton :
-            self.toggleFullscreen()
+    #def mousePressEvent(self, event):
+    #    if event.button() == QtCore.Qt.RightButton :
+    #        self.toggleFullscreen()
                 
     def toggleFullscreen(self):
         self.setWindowState(self.windowState() ^ QtCore.Qt.WindowFullScreen)
@@ -305,7 +307,7 @@ class Player(QtGui.QMainWindow):
 connected = False
 port = 'COM5'
 baud = 115200
-serial_port = serial.Serial(port, baud, timeout=0)
+#serial_port = serial.Serial(port, baud, timeout=0)
 wannastop = False
 counter = 0
 
@@ -332,7 +334,7 @@ if __name__ == "__main__":
     #player.resize(640,480)
     global playerPtr
     playerPtr = player
-    thread = threading.Thread(target=read_from_port, args=(serial_port,))
+    #thread = threading.Thread(target=read_from_port, args=(serial_port,))
     thread.start()
     if sys.argv[1:]:
         player.OpenFile(sys.argv[1])
