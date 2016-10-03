@@ -1,6 +1,7 @@
 # 254481 Computer graphics 1st semester 2016 
 
-[Course syllabus](https://github.com/fomapavlov/254481_1_2016/blob/master/syllabus_59_1_254481.pdf)
+[Course syllabus] (https://github.com/fomapavlov/254481_1_2016/blob/master/syllabus_59_1_254481.pdf)
+[Midterm score] (https://github.com/fomapavlov/254481_1_2016/blob/master/midterm.pdf)
 
 ## Slides
 Introduction to computer graphics (N/A)
