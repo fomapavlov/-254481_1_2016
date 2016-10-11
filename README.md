@@ -35,4 +35,4 @@ Online resources
 
 [3DS Max 2010 Tutorial] (https://www.youtube.com/watch?v=KwRkkGzA98k&list=PLA12BF2F8CC489A50)
 
-[3DS Max Modeling Tutorial] (https://www.youtube.com/watch?v=KwRkkGzA98k&list=PLA12BF2F8CC489A50)
+[3DS Max Modeling Tutorial] (https://www.youtube.com/watch?v=dUHamOFHwO8&list=PLg-ZzQs5oSYRprwXj1plZRgaCXr-dtMz3)
