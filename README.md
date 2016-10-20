@@ -41,6 +41,10 @@ Online resources
 
 [archive3d] (http://archive3d.net/)
 
-[good 3d models] (http://good3dmodels.in/)
+[good3dmodels] (http://good3dmodels.in/)
 
-[3dmodel.vn] (http://3dmodel.vn/)
+[3dmodel] (http://3dmodel.vn/)
+
+[design connected] (https://www.designconnected.com/catalog/3D-Models/Free)
+
+[turbosquid] (http://www.turbosquid.com/Search/3D-Models/free)
