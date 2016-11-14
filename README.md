@@ -19,7 +19,11 @@ Introduction to computer graphics (N/A)
 
 [3D transformation] (https://github.com/fomapavlov/254481_1_2016/blob/master/3DTransformation.pdf)
 
-...
+[Hierarchy] (https://github.com/fomapavlov/254481_1_2016/blob/master/Hierarchy.pdf)
+
+[Color, illumination, texture, transparency] (http://web.cse.ohio-state.edu/~parent/classes/581/AU11/schedule.html)
+
+[Curves and surfaces] (http://www.cse.chalmers.se/edu/course/TDA361/Curves%20and%20Surfaces.pdf)
 
 Online resources
 
